@@ -7,7 +7,7 @@ This project is based on GSI Project from Phhusson
 
 To initialize your local repository using the AospExtended trees, use a command like this:
 
-        repo init -u git://github.com/FluentOS-Project/FluentOS-GSI-BlackHole.git -b FluentOS_BlackHole
+        repo init -u git://github.com/FluentOS-Project/manifest.git -b a11
 
 Sync up the Repo:
 
