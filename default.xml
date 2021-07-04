@@ -835,5 +835,9 @@
 
   <!-- Includes Extra for the GSI Project -->
   <include name="replace.xml" />
+  <include name="foss.xml" />
+  <include name="gapps.xml" />
+  <include name="manifest.xml" />
+
   
 </manifest>

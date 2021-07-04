@@ -11,7 +11,7 @@ To initialize your local repository using the AospExtended trees, use a command 
 
 Sync up the Repo:
 
-        repo sync -c -f -j8 --force-sync --no-clone-bundle --no-tags
+        repo sync -c -j8 --force-sync --no-clone-bundle --no-tags
 
 Build to your Device:
 
